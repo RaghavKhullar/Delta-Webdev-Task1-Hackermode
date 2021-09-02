@@ -30,22 +30,3 @@ body{
 }
 
 
-#b1 button{
- display:grid;
- width: 100px;
- height:50px;
- border-radius: 10px;
- text-decoration: none;
- 
- 
-
-}
-
-#b2 button{
-    display:grid;
-    width: 100px;
-    height:50px;
-    border-radius: 10px;
-    text-decoration: none;
-   
-}
